@@ -1,5 +1,7 @@
 # nonogram_solver
 
+This program is part of the assessment work of the course "B4B36ZUI - Introduction to Artificial Intelligence" lectured at FEE CTU in Prague.
+
 Nonograms are brain teasers, defined by a legend linked to a grid used to draw a picture. Each number in the legend sets the number of the following boxes filled with color which belongs to the given number. The following rules hold:
 
 - there is always at least one empty box between two blocks of the boxes filled with the same color
