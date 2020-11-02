@@ -1,4 +1,4 @@
-# nonogram_solver
+# Nonogram solver
 
 This program is part of the assessment work of the course "B4B36ZUI - Introduction to Artificial Intelligence" lectured at FEE CTU in Prague.
 
