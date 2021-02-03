@@ -41,9 +41,7 @@ The input examples can be found in `/nonogram_solver/input` directory.
 - If multiple pictures satisfy the constraints, all of them are drawn and separated with an empty line
 - If the solution does not exist, the output is "null"
 
-<a href="link" style="text-align: center">
-<img src="https://github.com/valenpe7/nonogram_solver/blob/master/nonogram_solver.gif" align="center">
-</a>
+<img src="https://github.com/valenpe7/nonogram_solver/blob/master/nonogram_solver.gif" width=250>
 
 ### Implementation details:
 
